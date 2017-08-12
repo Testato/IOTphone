@@ -1,5 +1,6 @@
 Version: OrangePi_2G-IOT_NandStartup_V1.3
 Date: 26 Giu 2017
+235.2 MB
 
 https://mega.nz/#!TRNyTJLD!FgtMolmr1c9M_TXCidJ0hqU5qHlOoVespm_7wkAhxjU
 
