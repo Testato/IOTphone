@@ -5,7 +5,7 @@ Board:
 - Orange Pi 2G-IOT
 http://www.orangepi.org/OrangePi2GIOT/
 - Aliexpress shop:
-https://it.aliexpress.com/store/product/Orange-Pi-2G-IOT-ARM-Cortex-A5-32bit-Support-ubuntu-linux-and-android-mini-PC-Beyond/1553371_32802458477.html
+https://it.aliexpress.com/store/product/Orange-Pi-2G-IOT-Set4-Orange-Pi-2G-IOT-Power-Supply-ARM-Cortex-A5-32bit-Support/1553371_32814500329.html
 
 Lcd:
 - 3,5" + Touchscreen + 3 capacitive button
