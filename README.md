@@ -1,5 +1,5 @@
 # IOTphone
-A complete Android and/or Linux smartphone for IOT projects, included 3D printed case.
+A dualboot Linux/Android smartphone for IOT project, included 3D printed case
 
 Board:
 - Orange Pi 2G-IOT
