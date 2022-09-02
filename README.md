@@ -11,4 +11,3 @@ Lcd:
 - 3,5" + Touchscreen + 3 capacitive button
 - Aliexpress shop:
 https://it.aliexpress.com/item/32816194245.html
-pippo
